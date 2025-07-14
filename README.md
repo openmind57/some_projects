@@ -17,22 +17,22 @@
 
 ## 🗂️ Структура репозитория
 
-/
-├── time_series/ # Проект 1: прогноз заказов такси
-│ ├── README.md
-│ ├── time_series.ipynb
-│ └── requirements.txt
-├── toxic-classification/ # Проект 2: классификация токсичных комментариев
-│ ├── README.md
-│ ├── nlp_project.ipynb
-│ └── requirements.txt
-├── age-estimation/ # Проект 3: оценка возраста по фото
-│ ├── README.md
-│ ├── CV_project.ipynb
-│ └── requirements.txt
-├── image-search-demo/ # Проект 4: поиск изображений по запросу
-│ ├── README.md
-│ ├── something.ipynb
-│ └── requirements.txt
-├── README.md # Вы находитесь здесь
-└── requirements.txt # Общие зависимости (Jupyter, библиотеки для просмотра)
+- **time_series/**  
+  └─ `README.md`  
+  └─ `time_series.ipynb`  
+  └─ `requirements.txt`
+
+- **toxic-classification/**  
+  └─ `README.md`  
+  └─ `nlp_project.ipynb`  
+  └─ `requirements.txt`
+
+- **age-estimation/**  
+  └─ `README.md`  
+  └─ `CV_project.ipynb`  
+  └─ `requirements.txt`
+
+- **image-search-demo/**  
+  └─ `README.md`  
+  └─ `something.ipynb`  
+  └─ `requirements.txt`
